@@ -1,11 +1,14 @@
 # workshop-apache-kafka-connect
 
-
 These are the requirements for the workshop:
--Docker
--Get the following docker image:
+
+Working with Sources use:
 
 ```bash
-docker pull landoop/fast-data-dev
+docker-compose up kafka-cluster
 ```
 
+Working with Sinks use:
+```bash
+docker-compose up kafka-cluster elasticsearch postgres
+```
