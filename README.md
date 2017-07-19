@@ -2,7 +2,7 @@
 
 Hand-outs with assignments will be given at the workshop.
 
-Clone this repo: https://github.com/rvanrijn/workshop-apache-kafka-connect.git
+Clone or Download this repo: https://github.com/rvanrijn/workshop-apache-kafka-connect.git
 
 cd to the /workshop-apache-kafka-connect folder and run these commands below.
 
