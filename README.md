@@ -1,6 +1,8 @@
 # workshop-apache-kafka-connect
 
-These are the requirements for the workshop:
+Hand-outs with assignments will be given at the workshop.
+
+You can already download these docker dependencies.
 
 Working with Sources use:
 
